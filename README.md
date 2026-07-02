@@ -1,6 +1,6 @@
 # 🏨 Nice Hotel
 
-This project is currently under development and is being recreated as part of my journey to improve my HTML and CSS skills.
+This project is a front-end practice project recreated as part of my journey to improve my HTML and CSS skills by building modern, responsive-inspired website layouts.
 
 ## 🚀 Live Demo
 
@@ -10,15 +10,15 @@ This project is currently under development and is being recreated as part of my
 
 ### Header
 
-Screenshot coming soon.
+![Header](https://github.com/user-attachments/assets/9b592036-6f0d-421e-a447-97397aad9023)
 
 ### Content Section
 
-Screenshot coming soon.
+![Content Section](https://github.com/user-attachments/assets/9444dc4f-4cfd-4958-b8d4-d62282b4e422)
 
 ### Footer
 
-Screenshot coming soon.
+![Footer](https://github.com/user-attachments/assets/39d4d72e-6e46-47ff-8e8b-ce903f2f4cf7)
 
 ## 🎯 Project Goal
 
@@ -36,15 +36,17 @@ The purpose of this project is to practice:
 
 ## 📌 Project Status
 
-* 🚧 In Progress
+* ✔ Completed
 * ❌ Not responsive (desktop-only)
 * 🔄 Future improvement: add responsiveness and JavaScript features
 
 ## ⚠️ Disclaimer
 
-This project is a front-end practice exercise inspired by the Avada website.
+## ⚠️ Disclaimer
 
-It is intended for educational and portfolio purposes only and is not affiliated with or endorsed by Avada.
+This project is a front-end practice exercise inspired by a template from BootstrapMade.
+
+It is intended for educational and portfolio purposes only and is not affiliated with or endorsed by BootstrapMade.
 
 ## 👨‍💻 Author
 
