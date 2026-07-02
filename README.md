@@ -42,8 +42,6 @@ The purpose of this project is to practice:
 
 ## ⚠️ Disclaimer
 
-## ⚠️ Disclaimer
-
 This project is a front-end practice exercise inspired by a template from BootstrapMade.
 
 It is intended for educational and portfolio purposes only and is not affiliated with or endorsed by BootstrapMade.
